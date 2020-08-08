@@ -45,7 +45,7 @@ public class Main {
             catch (Exception err) {
             	System.out.println("Ada error "+notif);
             	System.out.println("Anda akan kembali ke menu");
-            	menu();
+            	// menu();
             	return;
             }
             
